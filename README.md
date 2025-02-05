@@ -1,5 +1,5 @@
 
-```markdown
+```markdow
 
 This project interacts with various APIs including Twitter and CoinMarketCap. To get started, follow the setup instructions below to configure your environment and provide the necessary credentials.
 
