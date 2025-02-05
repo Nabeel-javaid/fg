@@ -34,16 +34,17 @@ This project interacts with various APIs including Twitter and CoinMarketCap. To
    - `ALCHEMY_API_KEY` =< your alchemy api key
    - `WALLET_ADDRESS` =< the wallet address you want to track
 
-   Lastly, add the Lunar API Key (if it's not already in your `.env`):
-
-   - `LUNAR_API_KEY=fe86qpt128h60sv2g8jysc6qffm6eckvitbd8f0q`
-
 4. **Important Notes:**
    - There may be cases where the CoinMarketCap API provides incorrect or outdated information. Unfortunately, we have no control over this, and it may not be something that can be fixed on our end. Please be aware of this limitation while using the application.
 
 ## Running the Project
 
 Once you have completed the setup, you should be ready to run the project. Ensure that all dependencies are installed, and follow the instructions in the project for how to run it.
+
+```pnpm i --no-frozen-lockfile```
+and once it is done you can run 
+```pnpm build``` to build the code
+
 
 ## License
 
