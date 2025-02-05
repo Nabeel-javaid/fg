@@ -5,8 +5,8 @@ This project interacts with various APIs including Twitter and CoinMarketCap. To
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/VeritasAnalytica/TweetChain
+   cd TweetChain
    ```
 
 2. **Rename the `.env.example` file:**
